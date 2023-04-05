@@ -1,0 +1,6 @@
+{
+  "authorizationUrl" : "http://%s:%s@localhost:8080/web",
+  "apiUrl" : "http://localhost:8080/api/",
+  "screenshotName" : "screenshot.png",
+  "logName" : "log.log"
+}
